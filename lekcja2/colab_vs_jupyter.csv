@@ -1,0 +1,6 @@
+Feature,Google Colab,Jupyter Local
+Cost,Free,Free
+GPU Access,Yes,Own GPU
+Offline Work,No,Yes
+Time Limits,Yes,No
+Environment Control,Limited,Full
