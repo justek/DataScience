@@ -1,0 +1,12 @@
+{
+    "timestamp": "2026-08-08T20:36:56.742897",
+    "python_version": "3.9.6",
+    "operating_system": "Darwin",
+    "os_version": "Darwin Kernel Version 25.3.0: Wed Jan 28 20:54:55 PST 2026; root:xnu-12377.91.3~2/RELEASE_ARM64_T8132",
+    "processor": "arm",
+    "cpu_cores": 10,
+    "cpu_usage_percent": 7.2,
+    "total_ram_gb": 16.0,
+    "available_ram_gb": 4.07,
+    "gpu": "Not detected"
+}
