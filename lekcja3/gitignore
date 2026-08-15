@@ -1,0 +1,39 @@
+# Data
+data/
+*.csv
+*.parquet
+
+# Models
+models/
+*.pkl
+*.h5
+*.pt
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.conda/
+
+# Environment variables / secrets
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
