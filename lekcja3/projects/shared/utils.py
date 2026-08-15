@@ -4,3 +4,6 @@ def print_project_info(project_name):
 
 def calculate_missing_percentage(df):
     return df.isnull().mean() * 100
+
+def hello( name ):
+    print( "Hello", name )
